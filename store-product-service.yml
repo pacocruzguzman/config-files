@@ -1,3 +1,4 @@
+path-service: store/products
 server:
   port: 8090
 spring:
